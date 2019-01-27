@@ -1,0 +1,9 @@
+﻿packages
+.vs
+TestResults
+**/bin
+**/obj
+**/app/**/*.js
+**/app/**/*.js.map
+*.nupkg
+**/logs
