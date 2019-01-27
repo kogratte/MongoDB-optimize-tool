@@ -26,7 +26,7 @@ It allow us to get a good idea of the initial size, the compressed one, the comp
 # How to use it
 
 They are many options.
-- -p or --process: this option should be used if you want to apply the migration. Be carrefull if used with -d!
+- -p or --process: this option should be used if you want to apply the migration. Be carefull if used with -d!
 - -b or --useBlobStorage: this option move the html content to azure blob storage
 - -c or --compress: enable compression on html content
 - -d or --drop: remove the source collection once migration is done
